@@ -1,0 +1,36 @@
+{
+  "name": "Hussnain",
+  "age": 29,
+  "years_lived": 11,
+  "stats": {
+    "money": 1255000.0,
+    "happiness": 100,
+    "health": 40,
+    "education": 100
+  },
+  "current_job": "Executive",
+  "job_salary": 150000.0,
+  "has_business": true,
+  "business_income": 80000.0,
+  "education_level": 3,
+  "history": [
+    "Age 18: Fell Ill",
+    "Age 19: Started Entry Level ($35,000/yr)",
+    "Age 20: Earned Bachelor's Degree",
+    "Age 21: Started Mid-Level ($65,000/yr)",
+    "Age 21: Lottery Win",
+    "Age 22: Earned Master's Degree",
+    "Age 23: Earned PhD",
+    "Age 23: Breakthrough",
+    "Age 24: Founded own business",
+    "Age 26: Started Executive ($150,000/yr)",
+    "Age 26: Lottery Win",
+    "Age 27: Traveled to Italy",
+    "Age 27: Relationship Troubles",
+    "Age 28: Started Executive ($150,000/yr)",
+    "Age 28: Award Recognition"
+  ],
+  "is_alive": true,
+  "end_reason": "",
+  "save_timestamp": "2026-05-28T04:37:49.414366"
+}
